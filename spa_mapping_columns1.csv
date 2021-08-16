@@ -1,0 +1,42 @@
+GLOBAL_VAR_NAME,VAR_NAME,SAS_VAR_NAME,RANK,CATEGORY,CAT_ID,Filter,Grouped_Master
+Number of facitilies ,Facility identification,FACIL,Top-Tier,Capacity,1,0,1
+Medsen Generalis,MEDECINS GENERALISTES,Q400A_01,Top-Tier,Capacity,1,0,1
+Teknisyen Laboratwa,TECHNICIEN DE LABORATOIRE,Q400A_03,Top-Tier,Capacity,1,0,1
+Asistan Laboratwa,AUXILIAIRE DE LABORATOIRE (Y COMPRIS AIDE),Q400A_04,Top-Tier,Capacity,1,0,1
+Enfimyè,INFERMIER,Q400A_08,Top-Tier,Capacity,1,0,1
+Famasyen,PHARMACIEN,Q400A_12,Top-Tier,Capacity,1,0,1
+Ekip medikal,TOTAL FULL-TIME STAFF,Q400AT,Top-Tier,Capacity,1,0,1
+Improved water source,Water onsite/within 500 meters,Q331,Top-Tier,Infection Prevention,2,0,1
+Regular electricity ,Facility connected to central supply electricity,Q340,Top-Tier,Infection Prevention,2,0,1
+Soap and running water or else alcohol-based hand disinfectant*,Alcohol based hand rub,Q710_03  ,Top-Tier,Infection Prevention,2,1,1
+Soap and running water or else alcohol-based hand disinfectant*,Disinfectant,Q710_08,Top-Tier,Infection Prevention,2,1,
+Soap and running water or else alcohol-based hand disinfectant*,Running water,Q710_01,Top-Tier,Infection Prevention,2,1,
+Soap and running water or else alcohol-based hand disinfectant*,Soap,Q710_02,Top-Tier,Infection Prevention,2,1,
+Latex Gloves,Clean/sterile latex gloves,Q710_07,Top-Tier,Personal Protective Equipment,3,0,1
+Medical Masks,Medical masks,Q710_10,Top-Tier,Personal Protective Equipment,3,0,1
+Thermometer*,General OPD area: Thermometer available and functioning,Q700B_06,Top-Tier,Diagnostic Capacity,4,1,1
+Thermometer*,Sick child exam other equip:Thermometer,Q1210B_03,Top-Tier,Diagnostic Capacity,4,1,
+Thermometer*,Other equip:Thermometer,Q1622B_09,Top-Tier,Diagnostic Capacity,4,1,
+Thermometer*,Other equip:Thermometer for low-body temperature,Q1622B_10,Top-Tier,Diagnostic Capacity,4,1,
+Thermometer*,N-C diseases: Thermometer,Q2331B_06,Top-Tier,Diagnostic Capacity,4,1,
+Stethoscope*,Other equip:Stethoscope,Q1622B_12,Top-Tier,Diagnostic Capacity,4,1,1
+Stethoscope*,General OPD area: Stethoscope available and functioning,Q700B_07,Top-Tier,Diagnostic Capacity,4,1,
+Stethoscope*,Sick child exam other equip:Stethoscope,Q1210B_04,Top-Tier,Diagnostic Capacity,4,1,
+Stethoscope*,Other equip:Stethoscope,Q1314B_03,Top-Tier,Diagnostic Capacity,4,1,
+Stethoscope*,ANC exam:Stethoscope,Q1421B_03,Top-Tier,Diagnostic Capacity,4,1,
+Stethoscope*,ANC exam:Fetal stethoscope,Q1421B_05,Top-Tier,Diagnostic Capacity,4,1,
+Stethoscope*,Other equip:Foetal stethoscope,Q1622B_12,Top-Tier,Diagnostic Capacity,4,1,
+Stethoscope*,Other equip:Stethoscope,Q1622B_14,Top-Tier,Diagnostic Capacity,4,1,
+Stethoscope*,N-C diseases: Stethoscope,Q2331B_07,Top-Tier,Diagnostic Capacity,4,1,
+X ray machine*,Equipment available:Digital X-ray not requiring film,Q881B_01,Top-Tier,Diagnostic Capacity,4,1,1
+X ray machine*,Equipment available:X-ray machine+,Q881B_02,Top-Tier,Diagnostic Capacity,4,1,
+X ray machine*,"Performs diagnostic X-rays, ultrasound, computerized tomography",Q880,Top-Tier,Diagnostic Capacity,4,1,
+Inpatient care,Routine in-patient care or Overnight observation,Q110,Top-Tier,Theraputic Readiness,5,0,1
+Oxygen-filled oxygen cylinders*,Oxygen concentrators available and functioning,Q700B_17,Top-Tier,Theraputic Readiness,5,1,1
+Oxygen-filled oxygen cylinders*,Filled oxygen cylinder available and functioning,Q700B_18,Top-Tier,Theraputic Readiness,5,1,
+Oxygen-filled oxygen cylinders*,Oxygen distribution system available and functioning,Q700B_19,Top-Tier,Theraputic Readiness,5,1,
+Referral capacity-functional ambulance at facility*,Functional ambulance at facility,Q450,Top-Tier,Theraputic Readiness,5,1,1
+Referral capacity-functional ambulance at facility*,Observed ,Q451,Top-Tier,Theraputic Readiness,5,1,
+Referral capacity-functional ambulance at facility*,Fuel available,Q453,Top-Tier,Theraputic Readiness,5,1,
+Referral capacity-functional ambulance at facility*,Available elsewhere from a nearby facility,Q452,Top-Tier,Theraputic Readiness,5,1,
+Number of hospital beds,Number of overnight/in-patient beds,Q112,Top-Tier,Theraputic Readiness,5,0,1
